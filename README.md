@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm German</h1>
-<h3 align="center">Backend developer from Bolivia, I worked as a frontend, backend and mobile developer, but I feel good as a backend developer. because I like designing and building software architecture, implementing business logic (really solving problems), applying devops best practices, and more best practices and technology that are necessary to develop professional software.</h3>
+<p align="center">Backend developer from Bolivia, I worked as a frontend, backend and mobile developer, but I feel good as a backend developer. because I like designing and building software architecture, implementing business logic (really solving problems), applying devops best practices, and more best practices and technology that are necessary to develop professional software.</p>
 <br/>
 
 <img align="right" height="270px" alt="GIF" src="https://equilibrium.co.ke/sensitive/wp-content/uploads/2020/08/WEB-DEV.gif" />
