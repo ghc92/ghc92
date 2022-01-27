@@ -4,13 +4,16 @@
 
 <img align="right" height="270px" alt="GIF" src="https://equilibrium.co.ke/sensitive/wp-content/uploads/2020/08/WEB-DEV.gif" />
 
-- 👨🏻‍💻 Developer with more then 3 years experience
-- 🔭 I’m currently working on [tuGerente.com](https://tugerente.com/)
+- 👨🏻‍💻 Developer with more then 4 years experience
+- 🔭 I’m currently working on [Notus SpA](https://notus.cl/)
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to design and build software architectures
 
+
+&nbsp;
+&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me: 
 <p align="center">
