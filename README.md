@@ -18,7 +18,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me: 
 <p align="center">
-<a href="https://linkedin.com/in/germanhcondori"><img src="https://img.shields.io/badge/-germanhcondori-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/germanhcondori/"/></a>
+<a href="https://linkedin.com/in/hcgerman"><img src="https://img.shields.io/badge/-hcgerman-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hcgerman/"/></a>
 <a href="https://www.twitter.com/germondori/"><img src="https://img.shields.io/badge/-germondori-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/germondori/"/></a>
 <a href="mailto:yhermmany@gmail.com"><img src="https://img.shields.io/badge/-yhermmany@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/germanhuayhua"><img src="https://img.shields.io/badge/-@germanhuayhua-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
